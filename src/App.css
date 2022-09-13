@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.heading {
+  background-color: #e3e0ea;
+  padding: 20px;
+  margin: 0px;
+}
+.FlagImage {
+  width: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
